@@ -22,3 +22,6 @@ The Prototype Design Pattern is a creational pattern that allows objects to be c
 - **Performance Optimization**: When you need to improve performance by reducing the overhead associated with creating new objects.
 - **State Preservation**: When you need new objects that share the state of existing objects.
 - **Prototype Registry**: When you need a registry of objects that can be cloned to produce new instances on demand.
+
+### Use case 
+ - **Use the Prototype pattern** when the cost of creating a new object is high and when you have a base object with common characteristics that need to be duplicated.
